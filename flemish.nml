@@ -1,0 +1,204 @@
+grf {
+	grfid: "PC\01\01";
+	name: string(STR_GRF_NAME);
+	desc: string(STR_GRF_DESCRIPTION);
+	version: 0;
+	min_compatible_version: 0;
+}
+
+town_names(one) {
+	{
+	 	text("Onze-Lieve-Vrouw-", 5),
+	 	text("Ter-", 5),
+	 	text("De ", 5),
+	 	text("Oud-", 6),
+	 	text("Nieuw-", 3),
+	 	text("", 60),
+	}
+}
+
+town_names(two) {
+	{
+	 	text("Aart", 10),
+	 	text("Ant", 10),
+	 	text("Bal", 10),
+	 	text("Begijnen", 20),
+	 	text("Beer", 30),
+	 	text("Bier", 20),
+	 	text("Grim", 10),
+	 	text("Keer", 20),
+	 	text("Kraai", 30),
+	 	text("Zaven", 20),
+	 	text("Londer", 10),
+	 	text("Bever", 10),
+	 	text("Boech", 10),
+	 	text("Bon", 10),
+	 	text("Boom", 20),
+	 	text("Bors", 10),
+	 	text("Bras", 5),
+	 	text("Duf", 5),
+	 	text("Eker", 5),
+	 	text("Grobben", 10),
+	 	text("Hobo", 5),
+	 	text("Heist", 20),
+	 	text("Hemik", 10),
+	 	text("Heren", 20),
+	 	text("Hoog", 20),
+	 	text("Laag", 20),
+	 	text("Neder", 10),
+	 	text("Over", 10),
+	 	text("Huls", 20),
+	 	text("Kalm", 20),
+	 	text("Kapel", 30),
+	 	text("Kaster", 20),
+	 	text("Kont", 10),
+	 	text("Op", 5),
+	 	text("Rot", 20),
+	 	text("Scherpen", 10),
+	 	text("Steen", 30),
+	 	text("Put", 10),
+	 	text("Lier", 10),
+	 	text("Mech", 10),
+	 	text("Beren", 20),
+	 	text("Merl", 5),
+	 	text("Nijl", 5),
+	 	text("Ol", 5),
+	 	text("Turn", 20),
+	 	text("Ran", 10),
+	 	text("Reet", 10),
+	 	text("Schel", 20),
+	 	text("Sta", 20),
+	 	text("Vor", 20),
+	 	text("Vos", 40),
+	 	text("Wijn", 30),
+	 	text("Wil", 20),
+	 	text("Wommel", 20),
+	 	text("Zand", 30),
+	 	text("Zoer", 20),
+	 	text("Zwijn", 20),
+	}
+}
+
+town_names(three) {
+	{
+	 	text("beek", 20),
+	 	text("bergen", 5),
+	 	text("berg", 20),
+	 	text("bos", 20),
+	 	text("broek", 20),
+	 	text("burg", 20),
+	 	text("burcht", 20),
+	 	text("-de-Stad", 20),
+	 	text("dijk", 10),
+	 	text("donk", 5),
+	 	text("drecht", 20),
+	 	text("egem", 20),
+	 	text("en", 10),
+	 	text("erde", 5),
+	 	text("eren", 20),
+	 	text("erpen", 10),
+	 	text("fel", 10),
+	 	text("gem", 10),
+	 	text("gracht", 20),
+	 	text("-Hertog", 5),
+	 	text("heuvel", 5),
+	 	text("hout", 20),
+	 	text("hoof", 10),
+	 	text("hoven", 20),
+	 	text("kapel", 20),
+	 	text("kerken", 20),
+	 	text("kerk", 10),
+	 	text("laar", 10),
+	 	text("lo", 10),
+	 	text("monde", 5),
+	 	text("nem", 5),
+	 	text("oever", 10),
+	 	text("-op-den-Berg", 5),
+	 	text("-op-den-Bos", 5),
+	 	text("pellen", 10),
+	 	text("pen", 10),
+	 	text("put", 10),
+	 	text("schaat", 10),
+	 	text("schot", 15),
+	 	text("sel", 10),
+	 	text("straten", 20),
+	 	text("tsel", 10),
+	 	text("te", 5),
+	 	text("-waver", 10),
+	 	text("vaart", 10),
+	 	text("vliet", 10),
+	 	text("werpen", 5),
+	}
+}
+
+town_names(holyone) {
+	{
+	 	text("Sint-", 30),
+	 	text("Sinte-", 5),
+	 	text("St-", 10),
+	}
+}
+
+
+town_names(holytwo) {
+	{
+	 	text("Antonius", 10),
+	 	text("Amands", 5),
+	 	text("Bonifaas", 5),
+	 	text("Bonifatius", 5),
+	 	text("Gillis", 5),
+	 	text("Genesius", 10),
+	 	text("Katelijne", 10),
+	 	text("Lievens", 10),
+	 	text("Martens", 10),
+	 	text("Niklaas", 10),
+	 	text("Pieters", 10),
+	 	text("Pontaas", 5),
+	 	text("Pontatius", 5),
+	 	text("Servaas", 5),
+	 	text("Servatius", 5),
+	}
+}
+town_names(holythree) {
+	{
+	 	text("-de-Stad", 8),
+	 	text("-op-den-Berg", 5),
+	 	text("-waver", 7),
+	 	text("-op-den-Bosch", 5),
+	 	text("", 30),
+	}
+}
+
+town_names(normal) {
+	{
+	 town_names(one,3)
+	}
+	{
+ 	 town_names(two,3)
+	}
+	{
+ 	 town_names(three,3)
+	}
+}
+
+town_names(holy) {
+	{
+	 town_names(holyone,3)
+	}
+	{
+ 	 town_names(holytwo,3)
+	}
+	{
+ 	 town_names(holythree,3)
+	}
+}
+
+town_names {
+	styles : string(STR_STYLES);
+	{
+	 town_names(normal,5),
+	 town_names(holy,1)
+	}
+}
+
+
