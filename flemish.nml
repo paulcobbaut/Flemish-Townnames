@@ -9,10 +9,10 @@ grf {
 town_names(one) {
 	{
 	 	text("Onze-Lieve-Vrouw-", 5),
-	 	text("Ter-", 5),
-	 	text("De ", 5),
-	 	text("Oud-", 6),
-	 	text("Nieuw-", 3),
+	 	text("Ter-", 2),
+	 	text("De ", 2),
+	 	text("Oud-", 3),
+	 	text("Nieuw-", 2),
 	 	text("", 60),
 	}
 }
@@ -23,7 +23,7 @@ town_names(two) {
 	 	text("Ant", 10),
 	 	text("Bal", 10),
 	 	text("Begijnen", 20),
-	 	text("Beer", 30),
+	 	text("Beer", 20),
 	 	text("Bier", 20),
 	 	text("Grim", 10),
 	 	text("Keer", 20),
@@ -46,6 +46,10 @@ town_names(two) {
 	 	text("Hoog", 20),
 	 	text("Laag", 20),
 	 	text("Neder", 10),
+	 	text("Noorder", 10),
+	 	text("Zuider", 10),
+	 	text("West", 10),
+	 	text("Oost", 10),
 	 	text("Over", 10),
 	 	text("Huls", 20),
 	 	text("Kalm", 20),
@@ -68,13 +72,13 @@ town_names(two) {
 	 	text("Reet", 10),
 	 	text("Schel", 20),
 	 	text("Sta", 20),
-	 	text("Vor", 20),
-	 	text("Vos", 40),
+	 	text("Vor", 10),
+	 	text("Vos", 20),
 	 	text("Wijn", 30),
 	 	text("Wil", 20),
 	 	text("Wommel", 20),
 	 	text("Zand", 30),
-	 	text("Zoer", 20),
+	 	text("Zoer", 10),
 	 	text("Zwijn", 20),
 	}
 }
@@ -94,20 +98,21 @@ town_names(three) {
 	 	text("drecht", 20),
 	 	text("egem", 20),
 	 	text("en", 10),
+	 	text("entals", 5),
 	 	text("erde", 5),
 	 	text("eren", 20),
 	 	text("erpen", 10),
-	 	text("fel", 10),
-	 	text("gem", 10),
+	 	text("fel", 5),
+	 	text("gem", 20),
 	 	text("gracht", 20),
 	 	text("-Hertog", 5),
-	 	text("heuvel", 5),
+	 	text("heuvel", 10),
 	 	text("hout", 20),
-	 	text("hoof", 10),
+	 	text("hoof", 20),
 	 	text("hoven", 20),
 	 	text("kapel", 20),
 	 	text("kerken", 20),
-	 	text("kerk", 10),
+	 	text("kerk", 20),
 	 	text("laar", 10),
 	 	text("lo", 10),
 	 	text("monde", 5),
@@ -119,21 +124,22 @@ town_names(three) {
 	 	text("pen", 10),
 	 	text("put", 10),
 	 	text("schaat", 10),
-	 	text("schot", 15),
-	 	text("sel", 10),
+	 	text("schot", 20),
+	 	text("sel", 20),
 	 	text("straten", 20),
 	 	text("tsel", 10),
 	 	text("te", 5),
 	 	text("-waver", 10),
+	 	text("wijk", 10),
 	 	text("vaart", 10),
-	 	text("vliet", 10),
+	 	text("vliet", 20),
 	 	text("werpen", 5),
 	}
 }
 
 town_names(holyone) {
 	{
-	 	text("Sint-", 30),
+	 	text("Sint-", 50),
 	 	text("Sinte-", 5),
 	 	text("St-", 10),
 	}
@@ -142,17 +148,19 @@ town_names(holyone) {
 
 town_names(holytwo) {
 	{
-	 	text("Antonius", 10),
-	 	text("Amands", 5),
+	 	text("Antonius", 15),
+	 	text("Amands", 10),
 	 	text("Bonifaas", 5),
 	 	text("Bonifatius", 5),
-	 	text("Gillis", 5),
+	 	text("Gillis", 10),
 	 	text("Genesius", 10),
-	 	text("Katelijne", 10),
-	 	text("Lievens", 10),
-	 	text("Martens", 10),
-	 	text("Niklaas", 10),
-	 	text("Pieters", 10),
+	 	text("Katelijne", 20),
+	 	text("Lievens", 20),
+	 	text("Maarten", 10),
+	 	text("Martens", 20),
+	 	text("Niklaas", 20),
+	 	text("Pieter", 10),
+	 	text("Pieters", 20),
 	 	text("Pontaas", 5),
 	 	text("Pontatius", 5),
 	 	text("Servaas", 5),
@@ -161,11 +169,11 @@ town_names(holytwo) {
 }
 town_names(holythree) {
 	{
-	 	text("-de-Stad", 8),
+	 	text("-de-Stad", 5),
 	 	text("-op-den-Berg", 5),
-	 	text("-waver", 7),
+	 	text("-waver", 5),
 	 	text("-op-den-Bosch", 5),
-	 	text("", 30),
+	 	text("", 40),
 	}
 }
 
