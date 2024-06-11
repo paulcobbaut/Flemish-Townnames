@@ -1,6 +1,6 @@
 ##grflangid 0x01
-STR_GRF_NAME                                                    :Flemish Town Names v0.1
-STR_GRF_DESCRIPTION                                             :{ORANGE}Flemish sounding town names.{}{BLACK}PC
+STR_GRF_NAME                                                    :Random Flemish Town Names v0.4
+STR_GRF_DESCRIPTION                                             :{ORANGE}Flemish sounding town names.{}{BLACK}A random combination of prefixes, middlefixes and suffixes to create flemish sounding town names. Including towns named after saints. Vlaams klinkende namen van dorpen, willekeurig gegenereerd. Incluis dorpen genoemd naar heiligen.
 
 STR_STYLES                                          :Vlaams
 
