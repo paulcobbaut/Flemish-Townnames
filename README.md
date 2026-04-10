@@ -1,3 +1,5 @@
+# Everything migrated to https://codeberg.org/paulcobbaut
+
 # OpenTTD newgrf for Flemish Town Names
 
 A humble way of generating random town names that resemble Flemish.
